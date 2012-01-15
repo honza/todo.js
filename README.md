@@ -13,13 +13,18 @@ Compatibility
 * Opera
 * Chrome
 
+Features
+--------
+
+* jQuery version
+* Pure javascript version
+* Coffeescript version
+
 And it even runs in [node.js](http://nodejs.org).
 
 Things to work on
 -----------------
 
-* Coffeescript version
-* jQuery version
 * Tests
 * Emacs mode
 * Vim plugin
